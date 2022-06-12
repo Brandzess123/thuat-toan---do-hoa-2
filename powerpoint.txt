@@ -1,0 +1,74 @@
+1 bìa
+2.giới thiệu thành viên
+3.giới thiệu đề bài
+
+a)thuật toán bresenham
+4.cách giải thuật toán
+5.sơ đồ khối
+
+
+6.hướng dẫn code
++sử dụng thư viện
+chèn code vào.
++ tạo cấu trúc điểm
+struct ....
++xây dựng hàm bresenham
+chèn code vào.
+
++xây dựng vòng lặp while trong
+từng trường hợp 
+(cái hàm test1,test2, ... )
+chèn 4 cái hàm vào.
+
++xây dựng hàm main
+chèn code vào
++kết quả chạy chương trình
+//tí chạy rồi chụp.
+=====================================
+b)thuật toán dda
+1.cách giải thuật toán
+2.sơ đồ khối
+
+3.hướng dẫn code
++sử dụng thư viện j ...
+chèn code vào.
+
++ tạo cấu trúc điểm
+chèn code vào....
+struct j j đấy ....
+
++ xây dựng hàm round - hàm làm tròn..
+điền code vào.
++xây dựng hàm DDA
+chèn code vào.
+
++xây dụng hàm main
+chèn code vào
+
++kết quả chạy chương trình.
+=====================================
+b)thuật toán midpoint tạo đường tròn
+cho tâm I bất kì.
+
+1.cách giải thuật toán
+B1: xây dựng thuật toán midpoint tâm O
+bán kính R.
+B2: sử dụng phép tịnh tiến vectơ
+OI(a,b) với mọi điểm trong đường tròn.
+B3: ta được đường tròn tâm I bán 
+kính R
+
+
+2.sơ đồ khối
+3.hướng dẫn code
++sử dụng thư viện j ...
+chèn code vào.
+
++ tạo cấu trúc điểm
+chèn code vào....
+struct j j đấy ....
++ xây dựng hàm hiển thị 8 điểm đối xứng + tịnh tiến theo vectơ OI
++ xây dựng hàm midpoint đường tròn.
++ xây dựng hàm main
+
+4.kết quả code 
